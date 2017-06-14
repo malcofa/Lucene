@@ -1,7 +1,6 @@
 # Lucene
 
-Proyecto de apache lucene
-Contiene dos clases java
+##Proyecto de apache lucene que contiene dos clases java.
 
 1.- **LuceneLastVersion.java**: Indexa un par de campos, crea una query para una busqueda con de los 10 primeros resultados y por ultimo, recorre los resultados, mostrando los campos.
 
